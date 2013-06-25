@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+   <fontFamily name="test">
+       <normal><![CDATA[ANGSA.TTF]]></normal>
+       <bold><![CDATA[ANGSAB.TTF]]></bold>
+       <italic><![CDATA[ANGSAI.TTF]]></italic>
+       <boldItalic><![CDATA[ANGSAUI.TTF]]></boldItalic>
+       <pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+       <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+       <locales>
+               <locale><![CDATA[th_TH_TH]]></locale>
+               <locale><![CDATA[th_TH]]></locale>
+               <locale><![CDATA[th]]></locale>
+       </locales>
+   </fontFamily>
+
+   <fontFamily name="Tahoma">
+       <normal><![CDATA[tahoma.ttf]]></normal>
+       <pdfEmbedded><![CDATA[false]]></pdfEmbedded>
+   </fontFamily>
+
+   <fontFamily name="xxxxxxx">
+       <normal><![CDATA[subfont.ttf]]></normal>
+       <pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+       <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+   </fontFamily>
+
+</fontFamilies>
+
+
+
+
+
+
